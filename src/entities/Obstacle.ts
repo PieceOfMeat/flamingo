@@ -42,7 +42,9 @@ export class Obstacle {
   private fireDelay = -1;
   private _storedWorldSpeed = 0;
   private _storedLevelIndex = 0;
+  // @ts-ignore
   private _storedPlayerX = 0;
+  // @ts-ignore
   private _storedPlayerY = 0;
 
   constructor(
