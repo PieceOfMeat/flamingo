@@ -1,5 +1,5 @@
 import Phaser from "phaser";
-import { COLORS, DEPTH, GAME } from "../config/constants";
+import { DEPTH, GAME } from "../config/constants";
 
 export type BonusType = "star";
 

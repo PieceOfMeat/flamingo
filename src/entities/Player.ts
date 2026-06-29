@@ -1,5 +1,5 @@
 import Phaser from "phaser";
-import { GAME, COLORS, DEPTH } from "../config/constants";
+import { GAME, DEPTH } from "../config/constants";
 
 // The Flamingo missile. Placeholder = a labelled rectangle with a physics body.
 // Confined to the left third of the screen; moves on both axes via keys/mouse/touch.
